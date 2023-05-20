@@ -1,0 +1,24 @@
+.contact{
+    min-height: 100vh;
+    row-gap: 2rem;
+    text-align: center;
+}
+.form{
+    align-content: center;
+}
+
+.name{
+    border-radius: .5rem;
+    width: 25%;
+}
+
+.contact__input{
+    width: 25%;
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-semi);
+    padding: 1rem;
+    border-radius: .5rem;
+    border: 2.5px solid var(--second-color);
+    outline: none;
+    margin-bottom: var(--mb-4);
+  }

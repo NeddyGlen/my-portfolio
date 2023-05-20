@@ -1,0 +1,24 @@
+.about__img{
+  justify-self: center;
+}
+.about__img img{
+  width: 200px;
+  border-radius: .5rem;
+}
+.about{
+    min-height: 100vh;
+    row-gap: 2rem;
+    text-align: center;
+}
+.home__img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 295px;
+  }
+
+  .h1{
+    font-family: serif;
+    font-style: inherit;
+    font-size: 200;
+  }
